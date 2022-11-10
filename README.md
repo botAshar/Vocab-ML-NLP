@@ -8,4 +8,4 @@ I have decided to improve my vocubulary by utilizing my machine learning skills 
 * Applying the SVD on the matrix of the words for reducing dimensionally reduction.
 * Applying Custom K-means using Cosine Similarity on the Reduced matrix
 * Extracting the word Clusters
-I plan on using gensim word2vec and Annoy to better improve the accuracy of this process.
+* I plan on using gensim word2vec and Annoy to better improve the accuracy of this process. *
